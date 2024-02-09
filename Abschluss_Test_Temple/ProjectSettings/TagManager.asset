@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cone
+  - Cube
+  - Sphere
+  - Cylinder
+  - Light_Cone
+  - Light_Cube
+  - Light_Sphere
+  - Light_Cylinder
+  - Goal
   layers:
   - Default
   - TransparentFX
